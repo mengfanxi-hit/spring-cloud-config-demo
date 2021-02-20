@@ -1,5 +1,5 @@
 data:
   env: config-single-prod
   user:
-    username: client-single-user
-    password: 5516223
+    username: client-single-user-prod
+    password: 2222222
